@@ -16,14 +16,14 @@
 
 - 👍: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
-В свободное время я пишу также статьи на популярных площадках: &nbsp;
+В свободное время я пишу также статьи на популярных площадках:
 <div>
-  <p>https://habr.com/p/727810/</p> &nbsp;
-  <p>https://vc.ru/u/1301474-evgeniy-ivanov/663704-chto-nam-stoit-na-bubble-postroit-keys-mobilnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae</p> &nbsp;
-  <p>https://vc.ru/u/1301474-evgeniy-ivanov/682696-uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp-na-bubble-io</p> &nbsp;
-  <p>https://ya.zerocoder.ru/kings-rental-cars-kompaktnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae/</p> &nbsp;
-  <p>https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/</p> &nbsp;
-  <p>https://t.me/oqode/1182</p> &nbsp;
+  <p>https://habr.com/p/727810/</p>
+  <p>https://vc.ru/u/1301474-evgeniy-ivanov/663704-chto-nam-stoit-na-bubble-postroit-keys-mobilnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae</p>
+  <p>https://vc.ru/u/1301474-evgeniy-ivanov/682696-uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp-na-bubble-io</p>
+  <p>https://ya.zerocoder.ru/kings-rental-cars-kompaktnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae/</p>
+  <p>https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/</p>
+  <p>https://t.me/oqode/1182</p>
 </div>
 До связи!) &nbsp;
 ---

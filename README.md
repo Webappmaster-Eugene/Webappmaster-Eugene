@@ -18,12 +18,12 @@
 
 В свободное время я пишу также статьи на популярных площадках: &nbsp;
 <div>
-  https://habr.com/p/727810/ &nbsp;
-  https://vc.ru/u/1301474-evgeniy-ivanov/663704-chto-nam-stoit-na-bubble-postroit-keys-mobilnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae &nbsp;
-  https://vc.ru/u/1301474-evgeniy-ivanov/682696-uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp-na-bubble-io &nbsp;
-  https://ya.zerocoder.ru/kings-rental-cars-kompaktnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae/ &nbsp;
-  https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/ &nbsp;
-  https://t.me/oqode/1182 &nbsp;
+  <p>https://habr.com/p/727810/</p> &nbsp;
+  <p>https://vc.ru/u/1301474-evgeniy-ivanov/663704-chto-nam-stoit-na-bubble-postroit-keys-mobilnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae</p> &nbsp;
+  <p>https://vc.ru/u/1301474-evgeniy-ivanov/682696-uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp-na-bubble-io</p> &nbsp;
+  <p>https://ya.zerocoder.ru/kings-rental-cars-kompaktnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae/</p> &nbsp;
+  <p>https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/</p> &nbsp;
+  <p>https://t.me/oqode/1182</p> &nbsp;
 </div>
 До связи!) &nbsp;
 ---

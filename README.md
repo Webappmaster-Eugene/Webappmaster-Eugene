@@ -14,7 +14,7 @@
 
 - ⚡: Ищу работу junior фронтенд-разработчика в дружном коллективе профессионалов.
 
-- ☎️: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
+- 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
 В свободное время я пишу также статьи на популярных площадках:
 <div>
@@ -85,7 +85,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 📚 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -100,6 +100,8 @@
 | practicum.yandex/Факультет Веб разработки                       | 08/2022 - 06/2023 |
 
 ---
+### ⚙️ Мои проекты:
+
 
 ### 📊 Leetcode:
 
@@ -124,9 +126,8 @@
 
 ---
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChernoSlava&theme=vision-friendly-dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Numarta&theme=vision-friendly-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoSlava&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 - 🔭 I’m currently working on ...
@@ -139,6 +140,3 @@
 - ⚡ Fun fact: ...
 -->
 
-### ⚙️ Мои проекты:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Numarta&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

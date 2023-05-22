@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Webappmaster!
+# Привет, меня зовут Webappmaster! Hello there, I'm Eugene!
 
 ---
 
@@ -10,11 +10,11 @@
 
 - 👍: Заканчиваю обучение на курсе веб-разработчика на курсах Яндекс Практикум.
 
-- 👍: Занимаюсь фрилансом на крупных площадка рунета.
+- 👨‍💻: Занимаюсь фрилансом на крупных площадка рунета.
 
-- 👍: Ищу работу junior фронтенд-разработчика в дружном коллективе профессионалов.
+- ⚡: Ищу работу junior фронтенд-разработчика в дружном коллективе профессионалов.
 
-- 👍: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
+- ☎️: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
 В свободное время я пишу также статьи на популярных площадках:
 <div>
@@ -101,11 +101,11 @@
 
 ---
 
-### 💻 Leetcode:
+### 📊 Leetcode:
 
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Numart&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-### 💻 Codewars:
+### 📊 Codewars:
 
 ![codewars](https://www.codewars.com/users/Numart/badges/large)
 
@@ -121,3 +121,24 @@
     </td>
   </tr>
 </table>
+
+---
+### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChernoSlava&theme=vision-friendly-dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoSlava&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### ⚙️ Мои проекты:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Numarta&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

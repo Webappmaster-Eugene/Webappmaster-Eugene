@@ -101,6 +101,10 @@
 
 ---
 
+### 💻 Leetcode:
+
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Numart&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Numart/badges/large)

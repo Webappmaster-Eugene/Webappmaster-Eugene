@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Webappmaster! Hello there, I'm Eugene!
+# Привет, меня зовут Webappmaster!
 
 ---
 

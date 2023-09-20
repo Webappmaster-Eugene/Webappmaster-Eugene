@@ -95,14 +95,15 @@
 | stepik.org/JavaScript для начинающих                            | 10/2021 - 11/2021 |
 | innopolis.university/Тестирование ПО - QA-специалист            | 12/2021 - 02/2022 |
 | netology.ru/JavaScript-разработчик                              | 12/2021 - 04/2022 |
-| code.mu/Веб-разработчик                                         | 03/2022 - 03/2023 |
-| skillbox/PHP-разработчик                                        | 10/2022 - 03/2023 |
-| Result School/Typescript                                        | 05/2023 - 06/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 08/2022 - 06/2023 |
+| code.mu/Веб-разработчик                                         | 03/2022 - 01/2023 |
+| skillbox/PHP-разработчик                                        | 10/2022 - 01/2023 |
+| Result School/Typescript                                        | 05/2023 - 04/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 08/2022 - 05/2023 |
 
 ---
 ### ⚙️ Мои проекты:
 
+Портфолио с проектами представлено в профиле
 
 ### 📊 Leetcode:
 
@@ -117,17 +118,17 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Numarta&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Webappmaster-Eugenea&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Numarta&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Webappmaster-Eugene&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
 ---
 ### :fire: My Stats :
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Numarta&theme=vision-friendly-dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Webappmaster-Eugene&theme=vision-friendly-dark&show_icons=true)
 
 <!--
 

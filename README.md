@@ -3,9 +3,9 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
-Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С сентября 2021 года я серьезно занимаюсь веб-разработкой разрабатываю проекты.
+Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С сентября 2021 года я серьезно занимаюсь разработкой веб-приложений и различных сайтов.
 Мой сайт - https://webappmaster.ru
 Резюме - https://hh.ru/resume/364cf3a7ff0bf6562c0039ed1f766b6342436e
 Хабр.Карьера - https://career.habr.com/webappmaster

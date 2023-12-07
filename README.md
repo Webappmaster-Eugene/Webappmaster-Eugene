@@ -27,8 +27,7 @@
   <p>https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/</p>
   <p>https://t.me/oqode/1182</p>
 </div>
-До связи!) &nbsp;
----
+До связи!)
 
 ### 🤝 Социальные сети:
 

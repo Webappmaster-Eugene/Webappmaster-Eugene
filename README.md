@@ -12,7 +12,7 @@
 
 - 👨‍💻: Пишу веб-приложения на экосистеме React (Redux Toolkit, TS, Tailwind, при необходимости Next)
 
-- ⚡: Работаю junior фронтенд-разработчиком и разрабатываю коммерческие проекты
+- ⚡: Работаю фронтенд-разработчиком и разрабатываю коммерческие проекты
 
 - 👍: Имею профильное образование по специальности
   
@@ -20,7 +20,7 @@
 
 - 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
-В свободное время я пишу также статьи на популярных площадках:
+В свободное время я пишу статьи на популярных площадках:
 <div>
   <p>https://habr.com/p/727810/</p>
   <p>https://vc.ru/u/1301474-evgeniy-ivanov/663704-chto-nam-stoit-na-bubble-postroit-keys-mobilnoe-prilozhenie-dlya-arendy-sportkarov-v-dubae</p>

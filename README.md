@@ -7,12 +7,11 @@
 
 Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С августа 2021 года я занимаюсь разработкой веб-приложений и различных сайтов.
 Мой сайт - https://webappmaster.ru
+<!--
 Резюме - https://hh.ru/resume/364cf3a7ff0bf6562c0039ed1f766b6342436e
 Хабр.Карьера - https://career.habr.com/webappmaster
-
-- 👨‍💻: Пишу веб-приложения на экосистеме React (Redux Toolkit, TS, Tailwind, при необходимости Next)
-
-- ⚡: Работаю фронтенд-разработчиком и разрабатываю коммерческие проекты
+-->
+- 👨‍💻: Пишу веб-приложения в экосистеме Next+Nest
 
 - 👍: Имею профильное образование по специальности
   
@@ -83,23 +82,6 @@
 </div>
 
 ---
-
-### 📚 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| stepik.org/Web-технологии: профессиональная верстка             | 09/2021 - 10/2021 |
-| stepik.org/JavaScript для начинающих                            | 10/2021 - 11/2021 |
-| innopolis.university/Тестирование ПО - QA-специалист            | 12/2021 - 02/2022 |
-| netology.ru/JavaScript-разработчик                              | 12/2021 - 04/2022 |
-| code.mu/Веб-разработчик                                         | 03/2022 - 12/2022 |
-| skillbox/PHP-разработчик                                        | 01/2022 - 02/2022 |
-| Result School/Typescript                                        | 03/2022 - 07/2022 |
-| practicum.yandex/Факультет Веб разработки                       | 01/2022 - 09/2022 |
-| purpleschool/ReduxToolkit + TS                                  | 01/2023 - 02/2023 |
-| purpleschool/NextJS SSR                                         | 02/2023 - 03/2023 |
-
----
 ### ⚙️ Мои проекты:
 
 Портфолио с проектами представлено в профиле
@@ -116,19 +98,19 @@
 
 <table>
   <tr>
-    <td>
+    <!--<td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Webappmaster-Eugene&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
+    </td>-->
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Webappmaster-Eugene&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-
+<!--
 ---
 ### :fire: My Stats :
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Webappmaster-Eugene&theme=vision-friendly-dark&show_icons=true)
-
+-->
 <!--
 
 - 🔭 I’m currently working on ...

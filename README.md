@@ -21,7 +21,7 @@
   
 - 💻: Ранее разрабатывал приложения на фрилансе как фуллстак на MERN (Mongo, Express, React, Node)
 
-- 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_galera) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
+- 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_galera-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_galera) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
 В свободное время я пишу статьи на популярных площадках:
 <div>

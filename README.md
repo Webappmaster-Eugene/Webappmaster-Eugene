@@ -6,9 +6,9 @@
 ### Обо мне:
 
 Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С августа 2021 года я занимаюсь разработкой веб-приложений и различных сайтов.
-🌱 Веду <a href="https://t.me/captain_galera">канал</a> по разработке и менторю ребят по направлению фронтеннд и бэкенд на Node.js! Помогаю найти первую работу в IT.
-⚡ Решаю <a href="https://t.me/eugene_vibecode">алгосы</a> и помогаю готовиться к собесам, подписывайтесь!
-💬 Выступаю на <a href="https://t.me/ingacademy_magas/286">конференциях</a>
+- 🌱 Веду <a href="https://t.me/captain_galera">канал</a> по разработке и менторю ребят по направлению фронтеннд и бэкенд на Node.js! Помогаю найти первую работу в IT.
+- ⚡ Решаю <a href="https://t.me/eugene_vibecode">алгосы</a> и помогаю готовиться к собесам, подписывайтесь!
+- 💬 Выступаю на <a href="https://t.me/ingacademy_magas/286">конференциях</a>
 
 Мой сайт - https://webappmaster.ru
 <!--
@@ -32,6 +32,7 @@
   <p>https://ya.zerocoder.ru/uber-dlya-portnyh-kak-podgotovit-i-zapustit-mvp/</p>
   <p>https://t.me/oqode/1182</p>
 </div>
+
 До связи!)
 
 ### 🤝 Социальные сети:
@@ -92,7 +93,7 @@
 
 ### 📊 Leetcode:
 
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Numart&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Numart)](https://github.com/KnlnKS/leetcode-stats)
 
 ### 📊 Codewars:
 

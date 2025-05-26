@@ -93,7 +93,7 @@
 
 ### 📊 Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Numart)](https://github.com/KnlnKS/leetcode-stats)
+[![Numart LeetCode](https://leetcode-stats-six.vercel.app/?username=Numart)](https://github.com/KnlnKS/leetcode-stats)
 
 ### 📊 Codewars:
 

@@ -17,7 +17,7 @@
   
 - 💻: Ранее разрабатывал приложения на фрилансе как фуллстак на MERN (Mongo, Express, React, Node)
 
-- 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_webappmaster) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
+- 💬: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eugene_webappmaster-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eugene_galera) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamesnumart@gmail.com)
 
 В свободное время я пишу статьи на популярных площадках:
 <div>
@@ -33,16 +33,16 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/eugene_webappmaster" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://t.me/eugene_galera" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegramd" />
     </a>
-    <a href="https://t.me/appmaster_eugene" target="_blank">
+    <a href="https://t.me/captain_galera" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/channel/UCOylQLfh9G7Dh6tGQawQTTw" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
-    <a href="https://vk.com/numartmailru" target="_blank">
+    <a href="https://vk.com/webapp_eugene" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
@@ -92,7 +92,7 @@
 
 ### 📊 Codewars:
 
-![codewars](https://www.codewars.com/users/Numart/badges/large)
+![codewars](https://www.codewars.com/users/Wepappmaster/badges/large)
 
 ### ⚙️ GitHub статистика:
 
